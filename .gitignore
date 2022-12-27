@@ -1,0 +1,3 @@
+./secrets.raw.json
+./gen/**/*
+./staking-deposit-cli
